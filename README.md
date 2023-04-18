@@ -1,6 +1,8 @@
 # bootcamps
-## Parei um pouco com bootcamps, não gostei do formato.
+## Parei um pouco com bootcamps
+- não gostei do formato de seguir o que dizem o que é bom para mim.
+- Se eu for fazer algo isto será por cursos específicos.
+
 ### courses from DIO :top:
-1. Cognizant Cloud Data Engineer :floppy_disk:
-2. 
+ [x] Introdução ao Git e ao GitHub
 
