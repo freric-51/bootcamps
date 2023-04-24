@@ -7,5 +7,5 @@
 
 ### courses from [DIO](https://www.dio.me/)
 
-[x] Introdução ao Git e ao GitHub
-[x] Linux + shell script
+- [x] Introdução ao Git e ao GitHub
+- [x] Linux + shell script
